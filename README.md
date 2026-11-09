@@ -1,8 +1,8 @@
-# ELAN 04f3:0c00 on Fedora 44
+# ELAN 04f3:0c00 on Fedora 44 and Nobara 44
 
 Experimental `libfprint` integration for the ELAN Match-on-Chip 2 USB reader
 `04f3:0c00`, firmware revision `0281` (2.81). It was tested on an HP Pavilion
-15-eg0900nc running Fedora 44. This is a patch set and installer for the
+15-eg0900nc running Fedora 44. The installer also accepts Nobara 44 (Fedora-based). This is a patch set and installer for the
 system fingerprint stack, **not** a standalone authentication app.
 
 The installer pins [Davide Depau's `elanmoc2` branch](https://gitlab.freedesktop.org/Depau/libfprint/-/tree/elanmoc2)
