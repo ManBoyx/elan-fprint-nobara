@@ -1,3 +1,5 @@
+[English](README.md) · [Français](README.fr.md) · **Čeština**
+
 # ELAN 04f3:0c00 na Fedoře 44
 
 Toto je experimentální sada úprav ovladače `libfprint` pro čtečku ELAN

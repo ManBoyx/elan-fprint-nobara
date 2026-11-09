@@ -1,3 +1,5 @@
+**English** · [Français](TESTING.fr.md)
+
 # Hardware test plan
 
 Record firmware revision, Fedora and libfprint versions, whether the reader

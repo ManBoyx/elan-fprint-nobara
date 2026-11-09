@@ -1,3 +1,5 @@
+**English** · [Français](ATTRIBUTION.fr.md)
+
 # Attribution and patch provenance
 
 This repository downloads a pinned revision of

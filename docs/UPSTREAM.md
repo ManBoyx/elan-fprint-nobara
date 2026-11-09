@@ -1,3 +1,5 @@
+**English** · [Français](UPSTREAM.fr.md)
+
 # Path to upstream support
 
 `04f3:0c00` is missing from the upstream supported-device list. This Fedora
